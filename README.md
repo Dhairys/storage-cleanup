@@ -26,6 +26,3 @@ This is documentation only. It contains no script that removes anything. Every c
 - `pm uninstall --user 0` on a user-installed app may not be reversible with `install-existing`; reinstall from the store instead.
 - Major system updates can bring removed packages back.
 
-## Before publishing
-
-This repository was written from a personal inventory. Check it for anything you do not want public (app names that reveal accounts or habits, folder names, file paths) and consider keeping the repository private.
